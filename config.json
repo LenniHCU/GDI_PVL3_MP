@@ -60,7 +60,12 @@
 				"children": {
 					"staticlinks": [
 						{
-							"name": "Masterportal !!! Test",
+							"name": "Masterportal !!! Lenni",
+							"url": "https://masterportal.org"
+						},
+					"staticlinks": [
+						{
+							"name": "Masterportal !!! Lukas",
 							"url": "https://masterportal.org"
 						}
 					]
