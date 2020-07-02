@@ -123,6 +123,11 @@
 					"id": "42424",
 					"name": "Kanuverleihe",
           "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+				},
+				{
+					"id": "42425",
+					"name": "Stand-Up-Paddeling Angebote",
+          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
 				}
 			]
 		}
