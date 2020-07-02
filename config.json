@@ -133,6 +133,11 @@
 					"id": "42426",
 					"name": "Inland Elektronische Navigations Karte (IENC)",
           "layerAttribution": "<span>IENC der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
+				},
+				{
+					"id": "42426",
+					"name": "Bootsfahrschulen",
+          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
 				}
 			]
 		}
