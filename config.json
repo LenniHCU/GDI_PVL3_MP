@@ -112,6 +112,11 @@
 					"id": "42422",
 					"name": "Bundeswasserstraßenkarte (1:100000)",
           "layerAttribution": "<span>Bundeswasserstraßenkarte der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
+				},
+				{
+					"id": "42423",
+					"name": "Bootsverleihe",
+          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
 				}
 			]
 		}
