@@ -105,8 +105,8 @@
 				},
 				{
 					"id": "42421",
-					"name": "Pegel",
-          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
+					"name": "Pegelstände",
+          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, <a href="https://http://pegelonline.wsv.de"> Pegelonline</a></span>"
 				},
 				{
 					"id": "42422",
