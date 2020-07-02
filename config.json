@@ -1,6 +1,6 @@
 {
 	"Portalconfig": {
-		"potalTitle": "Wassersportportal Hamburg",
+		"portalTitle": "Wassersportportal Hamburg",
 		"treeType": "default",
 		"searchBar": {
 			"osm": {
@@ -57,7 +57,7 @@
 				"name": "Legende"
 			},
 			"info": {
-				"name": "Informationen",
+				"name": "Studenten",
 				"children": {
 					"staticlinks": [
 						{
