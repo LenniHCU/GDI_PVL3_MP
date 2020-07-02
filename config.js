@@ -8,10 +8,10 @@ const Config = {
     footer: {
         urls: [
             {
-                "bezeichnung": "Kartographie und Gestaltung: ",
-                "url": "https://www.geoinfo.hamburg.de/",
-                "alias": "Landesbetrieb Geoinformation und Vermessung",
-                "alias_mobil": "LGV"
+                "bezeichnung": "HCU Projekt, Geodateninfrastruktur, basierend auf: ",
+                "url": "https://www.masterportal.org/",
+                "alias": "Masterportal/LGV",
+                "alias_mobil": "MP/LGV"
             }
         ],
         showVersion: true
