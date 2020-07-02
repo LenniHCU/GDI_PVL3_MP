@@ -1,6 +1,7 @@
 {
 	"Portalconfig": {
-		"treeType": "light",
+		"potalTitle": "Wassersportportal Hamburg",
+		"treeType": "default",
 		"searchBar": {
 			"osm": {
 				"minChars": 3,
