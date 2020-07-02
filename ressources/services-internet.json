@@ -922,11 +922,11 @@
     ]
   },
   {
-    "id": "42421",
-    "name": "Pegelonline (WSV)",
-    "url": "http://www.pegelonline.wsv.de/webservices/gis/wms/aktuell/mnwmhw",
+    "id": "42422",
+    "name": "Digitale Bundeswasserstraßenkarte (WSV)",
+    "url": "http://atlas.wsv.bund.de/dbwk1000/wms",
     "typ": "WMS",
-    "layers": "PegelonlineWMS",
+    "layers": "WmsDBWK1000",
     "format": "image/png",
     "version": "1.3.0",
     "singleTile": false,
