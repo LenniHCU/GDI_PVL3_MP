@@ -101,7 +101,8 @@
 				{
           "id": "2426",
           "name": "Bezirke",
-          "layerAttribution": "<span>Bezirke der Stadt Hamburg</span>"
+          "layerAttribution": "<span>Bezirke der Stadt Hamburg</span>",
+					"visibility": true
 				},
 				{
 					"id": "42421",
@@ -116,6 +117,11 @@
 				{
 					"id": "42423",
 					"name": "Bootsverleihe",
+          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+				},
+				{
+					"id": "42424",
+					"name": "Kanuverleihe",
           "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
 				}
 			]
