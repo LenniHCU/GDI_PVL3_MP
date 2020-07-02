@@ -932,29 +932,6 @@
     "singleTile": false,
     "transparent": true,
     "transparency": 0,
-    "tilesize": "512",
-    "gutter": "15",
-    "minScale": "0",
-    "maxScale": "350000",
-    "gfiTheme": "default",
-    "layerAttribution": "nicht vorhanden",
-    "legendURL": "",
-    "cache": false,
-    "featureCount": "1",
-    "datasets": [
-      {
-        "md_id": "73A344E9-CDB5-4A17-89C1-05E202989755",
-        "rs_id": "https://registry.gdi-de.org/id/de.hh/2535cb6b-0447-4c4a-9bcd-63c1ac3e0622",
-        "md_name": "Hamburger Trinkwasserdatenbank (ZTEIS)",
-        "bbox": "461468.97,5916367.23,587010.91,5980347.76",
-        "kategorie_opendata": [
-          "Sonstiges"
-        ],
-        "kategorie_inspire": [
-          "nicht INSPIRE-identifiziert"
-        ],
-        "kategorie_organisation": "Behörde für Gesundheit und Verbraucherschutz"
-      }
-    ]
+    "featureCount": "1"
   }
 ]
