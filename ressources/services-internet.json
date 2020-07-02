@@ -924,7 +924,7 @@
   {
     "id": "42421",
     "name": "Pegelonline (WSV)",
-    "url": "https://www.pegelonline.wsv.de/webservices/gis/wms/aktuell/mnwmhw?language=ger&amp;",
+    "url": "http://www.pegelonline.wsv.de/webservices/gis/wms/aktuell/mnwmhw",
     "typ": "WMS",
     "layers": "PegelonlineWMS",
     "format": "image/png",
