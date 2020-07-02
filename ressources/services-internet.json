@@ -939,7 +939,7 @@
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
     "layerAttribution": "nicht vorhanden TEST in service internet",
-    "legendURL": "",
+    "legendURL": "ignore",
     "cache": false,
     "featureCount": "1",
   }
