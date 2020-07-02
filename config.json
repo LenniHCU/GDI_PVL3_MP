@@ -168,7 +168,7 @@
 				{
 					"id": "13716",
 					"name": "Pegelonline (WSV)",
-          "layerAttribution": "<span>blabla pegelonline info in config.json</span>"
+          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, <a href="https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html">WSV</a></span>"
 				}
 			]
 		}
