@@ -938,9 +938,9 @@
     "maxScale": "1000000",
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
-    "layerAttribution": "nicht vorhanden TEST in service internet",
-    "legendURL": "ignore",
+    "layerAttribution": "nicht vorhanden",
+    "legendURL": "",
     "cache": false,
-    "featureCount": "10",
+    "featureCount": "1",
   }
 ]
