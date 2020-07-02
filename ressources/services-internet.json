@@ -939,8 +939,8 @@
     "gfiAttributes": "ignore",
     "gfiTheme": "default",
     "layerAttribution": "nicht vorhanden",
-    "legendURL": "",
+    "legendURL": "ignore",
     "cache": false,
-    "featureCount": "1",
+    "featureCount": "1"
   }
 ]
