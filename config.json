@@ -6,7 +6,7 @@
 			"toolTip": "Wassersportportal Hamburg, HCU Projekt"
 		},
 		"overviewMap": true,
-		"treeType": "light",
+		"treeType": "custom",
 		"searchBar": {
 			"osm": {
 				"minChars": 3,
