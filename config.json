@@ -167,7 +167,8 @@
 				},
 				{
 					"id": "42421",
-					"name": "Pegelonline (WSV)"
+					"name": "Pegelonline (WSV)",
+          "layerAttribution": "<span>blabla pegelonline info in config.json</span>"
 				}
 			]
 		}
