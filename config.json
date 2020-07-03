@@ -6,7 +6,7 @@
 			"link": "https://lennihcu.github.io/GDI_PVL3_MP/",
 			"toolTip": "Wassersportportal Hamburg, HCU Projekt"
 		},
-		"treeType": "light",
+		"treeType": "custom",
 		"searchBar": {
 			"osm": {
 				"minChars": 3,
@@ -108,26 +108,19 @@
 			"name": "Fachdaten",
     "Ordner": [
         {
-            "Titel": "Mein erster Ordner",
-            "Ordner": [
-                {
-                    "Titel": "Mein zweiter Ordner",
-                    "Layer": [
+            "Titel": "Navigation und Orientierung",
+            "Layer": [
 						{
 							"id": "2426",
 							"name": "Bezirke",
 							"layerAttribution": "<span>Bezirke der Stadt Hamburg</span>",
-						"visibility": true
-					}
-                    ]
-                }
-            ],
-            "Layer": [
-                {
-					"id": "42421",
-					"name": "Pegelstände",
-          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
-				}
+							"visibility": true
+						},
+						{
+							"id": "42421",
+							"name": "Pegelstände",
+							"layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+						}
             ]
         }
     ],
