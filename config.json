@@ -6,7 +6,7 @@
 			"link": "https://lennihcu.github.io/GDI_PVL3_MP/",
 			"toolTip": "Wassersportportal Hamburg, HCU Projekt"
 		},
-		"treeType": "custom",
+		"treeType": "light",
 		"searchBar": {
 			"osm": {
 				"minChars": 3,
