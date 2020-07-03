@@ -106,6 +106,31 @@
 		},
 		"Fachdaten": {
 			"name": "Fachdaten",
+    "Ordner": [
+        {
+            "Titel": "Mein erster Ordner",
+            "Ordner": [
+                {
+                    "Titel": "Mein zweiter Ordner",
+                    "Layer": [
+						{
+							"id": "2426",
+							"name": "Bezirke",
+							"layerAttribution": "<span>Bezirke der Stadt Hamburg</span>",
+						"visibility": true
+					}
+                    ]
+                }
+            ],
+            "Layer": [
+                {
+					"id": "42421",
+					"name": "Pegelstände",
+          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+				}
+            ]
+        }
+    ],
 			"Layer": [
 				{
           "id": "2426",
