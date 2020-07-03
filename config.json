@@ -106,10 +106,10 @@
 		},
 		"Fachdaten": {
 			"name": "Fachdaten",
-    "Ordner": [
-        {
-            "Titel": "Navigation und Orientierung",
-            "Layer": [
+			"Ordner": [
+				{
+					"Titel": "Navigation und Orientierung",
+					"Layer": [
 						{
 							"id": "2426",
 							"name": "Bezirke",
@@ -120,50 +120,55 @@
 							"id": "42421",
 							"name": "Pegelstände",
 							"layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+						},
+						{
+							"id": "42428",
+							"name": "Schleusen in Hamburg",
+							"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						},
+						{
+							"id": "42422",
+							"name": "Bundeswasserstraßenkarte (1:100000)",
+							"layerAttribution": "<span>Bundeswasserstraßenkarte der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
+						},
+						{
+							"id": "42426",
+							"name": "Inland Elektronische Navigations Karte (IENC)",
+							"layerAttribution": "<span>IENC der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
 						}
-            ]
-        }
-    ],
-			"Layer": [
+					]
+				}
+			],
+			"Ordner": [
 				{
-					"id": "42422",
-					"name": "Bundeswasserstraßenkarte (1:100000)",
-          "layerAttribution": "<span>Bundeswasserstraßenkarte der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
-				},
-				{
-					"id": "42423",
-					"name": "Bootsverleihe",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
-				},
-				{
-					"id": "42424",
-					"name": "Kanuverleihe",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
-				},
-				{
-					"id": "42425",
-					"name": "Stand-Up-Paddling Angebote",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
-				},
-				{
-					"id": "42426",
-					"name": "Inland Elektronische Navigations Karte (IENC)",
-          "layerAttribution": "<span>IENC der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
-				},
-				{
-					"id": "42427",
-					"name": "Bootsfahrschulen",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
-				},
-				{
-					"id": "42428",
-					"name": "Schleusen in Hamburg",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
-				},
-				{
-					"id": "42429",
-					"name": "Wasserski- und Wakeboard Angebote",
-          "layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+					"Titel": "Verleihe und Angebote",
+					"Layer": [
+						{
+							"id": "42429",
+							"name": "Wasserski- und Wakeboard Angebote",
+							"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						},
+						{
+							"id": "42425",
+							"name": "Stand-Up-Paddling Angebote",
+							"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						},
+						{
+							"id": "42423",
+							"name": "Bootsverleihe",
+							"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						},
+						{
+							"id": "42424",
+							"name": "Kanuverleihe",
+						"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						},
+						{
+							"id": "42427",
+							"name": "Bootsfahrschulen",
+							"layerAttribution": "<span>L. Schulz u. L. Schawohl, Datengrundlage: Google Maps</span>"
+						}
+					]
 				}
 			]
 		}
