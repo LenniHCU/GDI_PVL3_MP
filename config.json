@@ -87,7 +87,7 @@
 	},
 	"Themenconfig": {
 		"Hintergrundkarten": {
-			"name": "Hintergrundkarten";
+			"name": "Hintergrundkarten",
 			"Layer": [
 				{
           "id": "453",
@@ -105,7 +105,7 @@
 			]
 		},
 		"Fachdaten": {
-			"name": "Fachdaten";
+			"name": "Fachdaten",
 			"Layer": [
 				{
           "id": "2426",
