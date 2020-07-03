@@ -2,6 +2,7 @@
 	"Portalconfig": {
 		"portalTitle": {
 			"title": "Wassersportportal Hamburg",
+			"logo": "favicon.ico",
 			"link": "https://lennihcu.github.io/GDI_PVL3_MP/",
 			"toolTip": "Wassersportportal Hamburg, HCU Projekt"
 		},
