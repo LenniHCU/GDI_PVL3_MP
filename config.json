@@ -133,17 +133,6 @@
     ],
 			"Layer": [
 				{
-          "id": "2426",
-          "name": "Bezirke",
-          "layerAttribution": "<span>Bezirke der Stadt Hamburg</span>",
-					"visibility": true
-				},
-				{
-					"id": "42421",
-					"name": "Pegelstände",
-          "layerAttribution": "<span>Pegelstände der Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
-				},
-				{
 					"id": "42422",
 					"name": "Bundeswasserstraßenkarte (1:100000)",
           "layerAttribution": "<span>Bundeswasserstraßenkarte der Wasserstraßen- und Schifffahrtsverwaltung des Bundes</span>"
