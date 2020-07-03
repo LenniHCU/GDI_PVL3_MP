@@ -80,7 +80,8 @@
 				"zoomMode": "once"
 			},
 			"attributions": true,
-			"mousePosition": true
+			"mousePosition": true,
+			"fullScreen": true
 		}
 	},
 	"Themenconfig": {
